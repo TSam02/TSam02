@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TSam02
-- 👀 I’m interested in cybersecurity, Artificial Intelligenec, etc.
-- 🌱 I’m currently studying in Monash University as a Year 3student
+- 👀 I’m interested in cybersecurity, Artificial intelligence, etc.
+- 🌱 I’m currently studying at Monash University as a Year 3 student
 - 💞️ I’m looking to collaborate on everything ...
 - 📫 How to reach me ...
 
